@@ -34,7 +34,7 @@ function App() {
                         paintOrder: 'stroke fill',
                         textShadow: '0 0 2px #000, 0 0 6px #fff, 0 0 2px #fff, 0 0 2px #fff' 
                       }}>
-                CLINT JOHN
+                CLIN JOHN
            </h1>
         </div>
 
